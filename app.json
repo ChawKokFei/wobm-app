@@ -1,0 +1,7 @@
+{
+  "name": "ClientPhone",
+  "displayName": "WoBM",
+  "expo": {
+    "plugins": ["expo-image-picker"]
+  }
+}
